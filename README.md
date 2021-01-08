@@ -13,6 +13,6 @@
 
 ### Other Projects and Papers
 |Project|Summary|Tasks|Tools|Date Added|
-|:------|:----------|:-------|:-------|:-----------|
+|:------|:----------|:-------|:-------|:-------|
 |<a href="https://github.com/alexcleung/used-car-prices">Prediction of Used Car Prices using Advanced Regression Methods</a>|A paper on the use of penalized spline regression methods applied to a dataset of used car prices. I wrote this paper as part of my master's degree.|Data cleaning, data exploration, regression model construction.|R (mgcv, GAM, ...)|January 2021|
 |<a href="https://github.com/alexcleung/dual-learning/blob/main/Dual%20Learning%20Applications%20and%20Extensions.pdf">Dual Learning: Applications and Extensions</a>|A survey paper on a machine learning paradigm called dual learning. I wrote this paper as part of my master's degree.|Data scraping, data cleaning, data visualization.|N/A|October 2020|
