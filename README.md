@@ -1,7 +1,7 @@
 ## Portfolio - Alex Leung - last updated January 2021
 ##### Welcome
 - This page is a brief summary of my portfolio which I have completed and assembled on GitHub. 
-- Data for these projects are either found from open sources or gathered myself.
+- Unlesss stated otherwise, data for these projects are either found from open sources or gathered myself.
 - Project topics are original and inspired by my hobbies and/or different areas of interest within data science. 
 
 ### Data Science Projects
