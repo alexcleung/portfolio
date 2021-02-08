@@ -2,7 +2,7 @@
 ##### Welcome
 - This page is a brief summary of my portfolio which I have completed and assembled on GitHub. 
 - Unlesss stated otherwise, data for these projects are either found from open sources or gathered myself.
-- Project topics are original and inspired by my hobbies and/or different areas of interest within data science. 
+- Project topics are original and inspired by my hobbies and/or different areas of interest. 
 
 ### Data Science Projects
 |Project|Summary|Tasks|Tools|Date Added|
