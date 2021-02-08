@@ -4,7 +4,7 @@
 - Unlesss stated otherwise, data for these projects are either found from open sources or gathered myself.
 - Project topics are original and inspired by my hobbies and/or different areas of interest. 
 
-### Data Science Projects
+### Data Science/Data Analysis Projects
 |Project|Summary|Tasks|Tools|Date Added|
 |:------|:----------|:-------|:-------|:-------|
 |<a href="https://github.com/alexcleung/fake-scotch-reviews">Writing Fake Scotch Reviews</a>|Trained an LSTM Network to write fake reviews for scotch.|Preprocessing, NN specification |Python (keras, numpy, pandas)|February 2021|
