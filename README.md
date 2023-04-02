@@ -23,6 +23,5 @@
 |Project|Summary|Tasks|Tools|Date Added|
 |:------|:----------|:-------|:-------|:-------|
 |<a href="https://github.com/alexcleung/used-car-prices">Prediction of Used Car Prices using Advanced Regression Methods</a>|A paper on the use of penalized spline regression methods applied to a dataset of used car prices. I wrote this paper as part of my master's degree.|Data cleaning, data exploration, regression model construction|R (mgcv, GAM, ...)|January 2021|
-|<a href="https://github.com/alexcleung/dual-learning/blob/main/Dual%20Learning%20Applications%20and%20Extensions.pdf">Dual Learning: Applications and Extensions</a>|A survey paper on a machine learning paradigm called dual learning. I wrote this paper as part of my master's degree.|N/A|N/A|October 2020|
 |Predicting Life Satisfaction|Built an ensemble model (random forest + logistic regression + gradient boosting) to determine whether an individual is satisfied with life based on survey responses.|Feature engineering, model specification|Python (sklearn, pandas, numpy) |closed source|
 |Comparison of ML models on Twitter Sentiment Analysis|Compared three classical machine learning algorithms (naive bayes, SVM, gradient boosting) to the three-class sentiment classification problem on tweets.|Feature engineering, model specification, model evaluation|Python (sklearn, pandas, numpy) |closed source|
