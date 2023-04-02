@@ -1,13 +1,17 @@
-## Portfolio - Alex Leung - last updated March 2021
+## Portfolio - Alex Leung - last updated April 2023
 ##### Welcome
-- This page is a brief summary of my portfolio which I have completed and assembled on GitHub. 
-- Unlesss stated otherwise, data for these projects are either found from open sources or gathered myself.
+- This page is a brief summary of some portfolio projects which I have assembled on GitHub.
+- Unless stated otherwise, data for these projects are either found from open sources or gathered myself.
 - Project topics are original and inspired by my hobbies and/or different areas of interest. 
+
+### Programming Projects
+|Project|Summary|Tasks|Tools|Date Added|
+|:------|:----------|:-------|:-------|:-------|
+|<a href="https://github.com/alexcleung/cpp-dungeon-ring">Dungeon Ring</a>|A Dungeon Crawler console game playable from the console, complete with ASCII art graphics .|OOP|C++|March 2023|
 
 ### Independent Data Science/Data Analysis Projects
 |Project|Summary|Tasks|Tools|Date Added|
 |:------|:----------|:-------|:-------|:-------|
-|<a href="https://github.com/alexcleung/man-vs-machine">Man vs. Machine: What makes an F1 Champion?</a>|Analyzed historical F1 results from 1950-2020 using custom metrics to determine whether a driver's skill is as important as their car.|Metric design, data visualization |R|March 2021|
 |<a href="https://github.com/alexcleung/fake-scotch-reviews">Writing Fake Scotch Reviews</a>|Trained an LSTM Network to write fake reviews for scotch.|Preprocessing, NN specification |Python (keras, numpy, pandas)|February 2021|
 |<a href="https://github.com/alexcleung/greek-beverages">Forecasting Beverage Sales</a>|Studied the effect of hierarchical time series in forecasting on a dataset of historical beverage sales in Greece. |Data visualization, time series model specification|R (fable, dplyr, tidyr, ...)|January 2021|
 |<a href="https://github.com/alexcleung/victoria-electricity">Daily Electricity Demand Prediction</a>|Built a multivariate time series model to forecast daily electricity demand in the state of Victoria, Australia.|Data exploration, feature engineering, time series model specification|Python (prophet, pandas, matplotlib)|December 2020|
