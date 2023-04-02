@@ -7,7 +7,7 @@
 ### Programming Projects
 |Project|Summary|Tasks|Tools|Date Added|
 |:------|:----------|:-------|:-------|:-------|
-|<a href="https://github.com/alexcleung/cpp-dungeon-ring">Dungeon Ring</a>|A Dungeon Crawler console game playable from the console, complete with ASCII art graphics .|OOP|C++|March 2023|
+|<a href="https://github.com/alexcleung/cpp-dungeon-ring">Dungeon Ring</a>|A Dungeon Crawler game playable from the console, complete with ASCII art graphics .|OOP|C++|March 2023|
 
 ### Independent Data Science/Data Analysis Projects
 |Project|Summary|Tasks|Tools|Date Added|
